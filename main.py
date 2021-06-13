@@ -1,5 +1,5 @@
 import time
-from plyer import notification
+from plyer import notification #pip install plyer
 while True:
     title = ' 💧  Drink Water!'
     message = 'We have to drink water to stay hydrated!'
