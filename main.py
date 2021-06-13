@@ -1,7 +1,7 @@
 import time
 from plyer import notification
 while True:
-    title = ' 💧  Drin   k Water!'
+    title = ' 💧  Drink Water!'
     message = 'We have to drink water to stay hydrated!'
     notification.notify(title=title,
                     message=message,
