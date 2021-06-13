@@ -10,6 +10,6 @@ while True:
                      toast=False
                         )
 
-    time.sleep(10)
+    time.sleep(10) #The number is in seconds.You can change it according to your wish.For 1 hour do 3600 seconds 
 
 
